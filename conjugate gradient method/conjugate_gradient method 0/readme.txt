@@ -1,0 +1,1 @@
+使用最优化讲义 确定了最优步长下的conjugate gradient方法
